@@ -480,7 +480,7 @@ footer .social-links ul li {
     color:white;
 }
 
-@media screen and (max-width:400px) {
+@media screen and (max-width:440px) {
     html {
         overflow:scroll;
     }
